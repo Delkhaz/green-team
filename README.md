@@ -5,6 +5,6 @@
 
 
 ### Contributers
-Delkhaz 
-Madison Karrh
-Thai Do
+* Delkhaz 
+* Madison Karrh
+* Thai Do

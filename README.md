@@ -1,3 +1,10 @@
 # green-team
-app
 
+
+
+
+
+### Contributers
+Delkhaz 
+Madison Karrh
+Thai Do
